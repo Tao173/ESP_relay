@@ -1,17 +1,10 @@
 # 开关模块
 
-本开关模块为自己家装修使用，只支持零火。没有单火需求所以也没有单火版。
-
-![image](https://github.com/qlwz/esp_relay/blob/master/file/images/正面.png)
-![image](https://github.com/qlwz/esp_relay/blob/master/file/images/反面.png)
-![image](https://github.com/qlwz/esp_relay/blob/master/file/images/成品.png)
-![image](https://github.com/qlwz/esp_relay/blob/master/file/images/LED状态.png)
-
 开关模块以ESP-01M为基础实现了一路、二路、三路并附带面板LED指示灯及射频功能
 
-- 一路：[一路开关模块详细资料](https://github.com/qlwz/esp_relay/tree/master/file/1%E8%B7%AF%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97)
-- 二路：[二路开关模块详细资料](https://github.com/qlwz/esp_relay/tree/master/file/2%E8%B7%AF%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97)
-- 三路：[三路开关模块详细资料](https://github.com/qlwz/esp_relay/tree/master/file/3%E8%B7%AF%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97)
+- 一路：[一路开关模块详细资料](https://github.com/Tao173/ESP_relay/tree/master/file/1%E8%B7%AF%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97)
+- 二路：[二路开关模块详细资料](https://github.com/Tao173/ESP_relay/tree/master/file/2%E8%B7%AF%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97)
+- 三路：[三路开关模块详细资料](https://github.com/Tao173/ESP_relay/tree/master/file/3%E8%B7%AF%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97)
 
 ## IO对应：  
 按键：  
